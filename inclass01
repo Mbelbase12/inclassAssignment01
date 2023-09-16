@@ -1,0 +1,26 @@
+<!--
+    Name:- Manoj Belbase
+    Email:- Mbelbase3938@conetogac.on.ca
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Saffron</title>
+</head>
+<body>
+    <header style="text-align: center">605 Hespeler Road Cambridge, ON N1R 6J3 CANADA<br>
+        Tel no: (123)456-7891<br>
+        Email: saffroncanada@gmail.com </center></header>
+
+    <h1><b><center>Saffron Resturent and Bar</center></b></h1>
+
+    <p>Saffron has numerous options for a vegetarian heaven, including fat-free tandoori dishes, gluten-free options, and alternatives. We also have vegan options, don't use MSG, have a peanut-free kitchen, and exclusively use transfat-free oil. The saffron chefs, who have 30 years of expertise and are from Europe, are committed to offering the freshest food possible. They make many of their ingredients, such as yoghurt and fresh paneer, in-house and prepare each dish to request in mild, medium, hot, or extra high heat.</p>
+<p>The best Indian traditional foods are brought to Cambridge by the authentic Indian restaurant Saffron. We serve both individuals with limited exposure to Indian cuisine and those with extensive knowledge of its decadent spices and mouthwatering ingredients.
+    India Chef can prepare a delectable cuisine that you will adore, whether you are in the mood for chicken, shrimp, lamb, beef, fish, mutton, or a vegetarian meal.
+   </p>
+   <footer style="position: fixed; bottom: 0; width:100%; text-align: center">&copy;2023 Saffron Resturent and Bar. All rights reserved.</footer>
+   
+</body>
+</html>
